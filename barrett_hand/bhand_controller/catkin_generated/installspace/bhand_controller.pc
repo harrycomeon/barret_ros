@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: bhand_controller
+Description: Description of bhand_controller
+Version: 0.1.2
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

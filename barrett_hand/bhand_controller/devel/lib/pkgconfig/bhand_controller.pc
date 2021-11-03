@@ -1,0 +1,8 @@
+prefix=/home/harry/catkin_ws/src/barrett_hand/bhand_controller/devel
+
+Name: bhand_controller
+Description: Description of bhand_controller
+Version: 0.1.2
+Cflags: -I/home/harry/catkin_ws/src/barrett_hand/bhand_controller/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
